@@ -7,7 +7,7 @@ function Header() {
       <h1 className="text-3xl font-semibold text-slate-300 font-poppins">
         ☕ Coffee Bean
       </h1>
-      <p className="text-xl font-medium  text-green-400">
+      <p className="text-md hidden md:block font-medium  text-green-200">
         Quantity: {coffee.length}
       </p>
     </header>
