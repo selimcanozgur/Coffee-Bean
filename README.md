@@ -6,7 +6,7 @@ Uygulamayı [buradan](https://coffee-bean-menu.netlify.app/) görüntüleyebilir
 
 Coffee Bean, kullanıcıların kahve ürünlerini keşfedebileceği modern bir React uygulamasıdır. Uygulama, bir API'den alınan verileri kullanarak menüdeki ürünlerin adını, fiyatını, resmini ve açıklamasını görüntüler.
 
-![Kahve Ürünleri](img/cb.png)
+![Kahve Ürünleri](public/img//cb.png)
 
 ## Özellikler
 
